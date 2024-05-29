@@ -10,3 +10,6 @@ Git is free software.
 
 
 这是dev分支
+
+
+Creating a new branch is quick AND simple.
